@@ -1,16 +1,14 @@
-### Hi there 👋
+# Amanda Carvalho
 
-<!--
-**AmandaCarvalho1989/AmandaCarvalho1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá😄
 
-Here are some ideas to get you started:
+- Estou trabalhando na **Visual Mix** como estágiaria
+- Trabalho na área de desenvolvimento front-end
+- Estou no 3º ano do ensino médio técnico em informática
+- Sou interessada por Ui e UX Design 
+- Adoro música e livros
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contato**
+
+- Linkedin: http://linkedin.com/in/amanda-carvalho-7a2b02182
+- Email: amandamvcarvalho1989@gmail.com
