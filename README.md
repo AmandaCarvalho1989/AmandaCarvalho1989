@@ -1,6 +1,8 @@
 # Olá😄
 
+<!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+-->
 
 <p align="left"> 
  Tenho 17 anos, moro em SP e sou desenvolvedora <strong> front-end </strong>.<br>
