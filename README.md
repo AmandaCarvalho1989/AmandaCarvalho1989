@@ -5,8 +5,8 @@
 -->
 
 <p align="left"> 
- Tenho 17 anos, moro em SP e sou desenvolvedora <strong> front-end </strong>.<br>
- Trabalho como Desenvolvedora Jr na Visual Mix e finalizo o ensino médio técnico em informática esse ano (ITB)
+ Tenho 17 anos, moro em SP e sou desenvolvedora <strong> front-end Jr e UI Designer Jr </strong>.<br>
+
 </p>
 
 <p align="left">
