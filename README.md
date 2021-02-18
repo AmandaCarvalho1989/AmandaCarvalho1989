@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS3, Sass, JavaScript, React ... </strong>
+  🦄 Skills: <strong>HTML, CSS3, Sass, JavaScript, React, Node, NextJS ... </strong>
 </p>
 
 <p align="left">
