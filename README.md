@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977216605"/></a>
 
  <a href="https://www.instagram.com/amandaacarvalh_/">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style==flat-square&for-the-badge&logo=instagram&logoColor=white">
+   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&for-the-badge&logo=instagram&logoColor=white">
 
 <!-- 
 <img src="https://img.shields.io/static/v1?label=Overview&message=AmandaCarvalho1989&color=f8efd4&style=for-the-badge&logo=GitHub">
