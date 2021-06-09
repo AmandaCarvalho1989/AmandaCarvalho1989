@@ -25,7 +25,7 @@
 <!--   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
  -->
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/amanda-carvalho-7a2b02182/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-carvalho-7a2b02182/" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=55+11+97721-6605/" alt="WhatsApp">
