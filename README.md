@@ -5,12 +5,12 @@
 -->
 
 <p align="left"> 
- Tenho 17 anos, moro em SP e sou desenvolvedora <strong> front-end Jr e UI Designer Jr </strong>.<br>
+ Tenho 18 anos, moro em SP e sou desenvolvedora <strong> Front-end Jr e UI Designer Jr </strong>.<br>
 
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS3, Sass, JavaScript, React, Node, NextJS ... </strong>
+  🦄 Skills: <strong>HTML, CSS3, Sass, JavaScript, React, Node, NextJS, Typescript ... </strong>
 </p>
 
 <p align="left">
