@@ -5,7 +5,7 @@
 -->
 
 <p align="left"> 
- Tenho 18 anos, moro em SP e sou desenvolvedora <strong> Front-end Jr e UI Designer Jr </strong>.<br>
+ Tenho 19 anos, moro em SP e sou desenvolvedora <strong> Front-end e UI Designer Jr </strong>.<br>
 
 </p>
 
