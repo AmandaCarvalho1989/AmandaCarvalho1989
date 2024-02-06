@@ -5,7 +5,7 @@
 -->
 
 <p align="left"> 
- Tenho 19 anos, moro em SP e sou desenvolvedora <strong> Front-end e UI Designer Jr </strong>.<br>
+ Tenho 20 anos, moro em SP e sou desenvolvedora <strong> Front-end Pleno e UI Designer Jr </strong>.<br>
 
 </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VS Code, Figma, Git, GitHub, Insomnia, Trello ...</strong>
+  💼 Ferramentas: <strong> VS Code, Figma, Git, GitHub, Insomnia ...</strong>
 </p>
 
 <p align="left">
